@@ -1,2 +1,4 @@
-2025-03-04 15:59:58,343 - INFO - Please Upload Dataset For EDA...
-2025-03-04 15:59:58,448 - INFO - The Dataset is Successfully Uploaded
+2025-03-04 16:20:59,318 - INFO - Please Upload Dataset For EDA...
+2025-03-04 16:20:59,386 - INFO - The Dataset is Successfully Uploaded
+2025-03-04 16:20:59,632 - INFO - 1.The dataset contains 45211 rows and 17 columns
+2025-03-04 16:20:59,632 - INFO - The Data is split into numerical_data and categorical_data
